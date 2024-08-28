@@ -29,7 +29,7 @@ mirror_list_registry=(
     "道客 DaoCloud@docker.m.daocloud.io"
     "AtomHub 可信镜像中心@hub.atomgit.com"
     "阿里云（杭州）@registry.cn-hangzhou.aliyuncs.com"
-    "阿里云（上海）@registry.cn-shanghai.aliyuncs.com"
+    "个人（cloudf）@docker.19910321.best"
     "阿里云（青岛）@registry.cn-qingdao.aliyuncs.com"
     "阿里云（北京）@registry.cn-beijing.aliyuncs.com"
     "阿里云（张家口）@registry.cn-zhangjiakou.aliyuncs.com"
